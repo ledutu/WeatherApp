@@ -10,8 +10,13 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-firebase/app": "^10.4.0",
+    "axios": "^0.21.1",
+    "firebase": "^8.2.2",
     "react": "16.13.1",
-    "react-native": "0.63.4"
+    "react-native": "0.63.4",
+    "react-native-echarts-wrapper": "^2.0.0",
+    "react-native-safe-area-context": "^3.1.9"
   },
   "devDependencies": {
     "@babel/core": "7.12.10",
